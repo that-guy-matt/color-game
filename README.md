@@ -21,3 +21,4 @@ This project is at a current working state functionally and visibly the same as 
 ### To-do
 
 * Add color change affects to buttons when header changes on winning state
+* Optimize for multiple browser support (untested)
